@@ -68,3 +68,4 @@ SERVIS_65: MVI A,2d ;на дисплеј се испишува бројот на
  DCR E ;еден корисник помалку
 
 RET
+ ![Screenshot (1)](  https://github.com/TrajceStudent/zadaca-tasteri/blob/main/8.png  )
